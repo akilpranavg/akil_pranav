@@ -1,4 +1,5 @@
 x = 6
 y = 7
-z = x + y
+l = 8
+z = x + y + l
 print (z)
